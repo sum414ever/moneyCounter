@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Money Counter</string>
+    <string name="welcome">Welcome to Money Counter</string>
+    <string name="login_or_register">Please login or register:</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="create_account">New Here? Create Account</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="nickname">Nickname</string>
+    <string name="birthday">Birthday</string>
+
+</resources>
